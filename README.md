@@ -16,6 +16,8 @@ Additionally, the study will later incorporate **electric vehicle (EV) charging 
   - `Total Flow`: Total vehicle count per hour
   - `Avg Speed`: Average speed recorded per station
   - `% Observed`: Data reliability metric
+  - `Samples`: Total number of samples received for all lanes
+  - `Lane Type`: A string indicating the type of lane
 
 ## **Project Goals**
 1. **Exploratory Data Analysis (EDA)**
