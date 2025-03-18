@@ -54,15 +54,6 @@ To run this project, install the following dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn statsmodels tensorflow
 ```
-
-## **Usage**
-1. **Download the dataset from PeMS** and save it in the `data/` directory.
-2. Run `data_preprocessing.ipynb` to clean and structure the dataset.
-3. Execute `eda.ipynb` to explore traffic trends and visualize key patterns.
-4. Implement forecasting models in `time_series_forecasting.ipynb`.
-5. Develop deep learning models in `deep_learning_forecasting.ipynb`.
-6. Integrate EV data and conduct a final analysis in `ev_analysis.ipynb`.
-
 ## **Expected Outcomes**
 - **Accurate traffic forecasting models** for congestion prediction.
 - **Insights into traffic patterns** at different levels (station, route, district).
